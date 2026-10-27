@@ -23,6 +23,8 @@
 
 **▶ https://meijo-3d-unofficial.yuustudio.app/**
 
+https://github.com/user-attachments/assets/7a20d3ad-06dc-4e5c-a512-6dee352846a6
+
 ### [Kaggle Competitions](https://github.com/yuu737/kaggle-competitions)
 
 | 大会 | 順位 | 結果 |
