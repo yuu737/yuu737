@@ -30,7 +30,7 @@
 | ROGII Wellbore Geology Prediction | 437 / 6,125（上位7.1%） | 🥉 |
 | NeuroGolf 2026 | 275 / 2,963（上位9.3%） | 🥉 |
 | Kaggriculture | 991 / 10,148（上位9.8%） | 🥉 |
-| RSNA Knee Abnormality Detection | 426 / 6,425（上位6.6%） | 最終結果待ち |
+| RSNA Knee Abnormality Detection | 402 / 6,300（上位6.4%） | メダル確定待ち |
 
 Claude Codeを研究リードにして、サブエージェントと外部のエージェントに実装と検証を任せる体制で進めました。進め方は [CLAUDE_CODE.md](https://github.com/yuu737/kaggle-competitions/blob/main/CLAUDE_CODE.md) にまとめています。
 
