@@ -10,7 +10,7 @@
 
 | 部門 | 称号 | メダル | 順位 |
 | --- | --- | --- | --- |
-| Competitions | Expert | 🥉 3 | 3,204 / 221,834（最高 3,202） |
+| Competitions | Expert | 🥉 4 | 3,204 / 221,834（最高 3,202） |
 | Notebooks | Expert | 🥈 1 · 🥉 4 | 1,261 / 59,178（最高 1,151） |
 
 順位は2026-10-27時点。
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/7a20d3ad-06dc-4e5c-a512-6dee352846a6
 | ROGII Wellbore Geology Prediction | 437 / 6,125（上位7.1%） | 🥉 |
 | NeuroGolf 2026 | 275 / 2,963（上位9.3%） | 🥉 |
 | Kaggriculture | 991 / 10,148（上位9.8%） | 🥉 |
-| RSNA Knee Abnormality Detection | 402 / 6,300（上位6.4%） | メダル確定待ち |
+| RSNA Knee Abnormality Detection | 402 / 6,299（上位6.4%） | 🥉 |
 
 Claude Codeを研究リードにして、サブエージェントと外部のエージェントに実装と検証を任せる体制で進めました。進め方は [CLAUDE_CODE.md](https://github.com/yuu737/kaggle-competitions/blob/main/CLAUDE_CODE.md) にまとめています。
 
