@@ -1,8 +1,8 @@
 # kou
 
-> CS undergrad (2nd year) building large projects solo by directing AI coding agents, mainly Claude Code. Kaggle Competitions Expert / Notebooks Expert.
+> CS undergrad (2nd year). I set the direction and verify the results; AI coding agents, mainly Claude Code, do the implementation. Kaggle Competitions Expert / Notebooks Expert.
 
-名城大学 情報工学部の2年生です。AIコーディングエージェント（主にClaude Code）をチームとして使い、一人では作れない規模のものを作っています。
+名城大学 情報工学部の2年生です。方針と検証は自分、実装はAIエージェント（主にClaude Code）という分担で開発しています。
 
 ## Kaggle
 
